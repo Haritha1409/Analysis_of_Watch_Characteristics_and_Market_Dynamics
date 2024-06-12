@@ -1,4 +1,3 @@
-# Analysis_of_Watch_Characteristics_and_Market_Dynamics
 # Timepiece Trends: A Deep Dive into Watch Characteristics and Market Dynamics
 # Objective:
 The primary objective of this project is to analyze a comprehensive dataset of watches to identify and understand trends, preferences, and correlations within the watch market. The specific goals are to determine the most popular watch brands and models, analyze preferences for different materials used in watchmaking, explore the distribution and popularity of various movement types, investigate pricing trends across different market segments, and examine the prevalence of various features such as water resistance, chronographs, and smart capabilities. These objectives aim to provide a deeper understanding of the factors influencing consumer choices and market trends.
